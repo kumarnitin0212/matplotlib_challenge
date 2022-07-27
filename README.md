@@ -1,8 +1,5 @@
-# Unit 5 Homework: The Power of Plots
-
 What good is data without a good plot to tell the story?
-
-In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
+you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 ## Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -108,20 +105,3 @@ Review all the figures and tables that you generated in this assignment. Write a
   * How do I add a label to a scatter plot?
 
   * Where in the DataFrame can I find the names that will go into the labels?
-
- 
-* Get help when you need it! Your instructional team is here to help.
-## Rubric
-
-[Unit 5 Homework Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
-
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
